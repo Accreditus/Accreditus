@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h3 align="center">Love with 🧐</h3>
+<h3 align="center">Love with 👌</h3>
 
 <div align="center">
   
