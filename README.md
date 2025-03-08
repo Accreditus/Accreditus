@@ -40,6 +40,6 @@
 |-------------------|-----------------|---------------------------|----------------------|
 | View My Startup  | Team Project    | 2024.08.13 ~ 2024.09.02   | [Website](https://view-my-startup.vercel.app/) / [GitHub](https://github.com/ViewMyStartup/view-my-startup) |
 | Docthru          | Team Project    | 2024.10.08 ~ 2024.10.31   | [Website](https://docthru.vercel.app/) / [Github](https://github.com/Docthru/docthru-be) |
-| Moving           | Team Project    | 2024.11.25 ~ 2025.01.13   | [GitHub](https://github.com/codeit-moving/moving-fe) |
+| Moving           | Team Project    | 2024.11.25 ~ 2025.01.13   | [Website](https://moving-fe-weld.vercel.app/) / [GitHub](https://github.com/codeit-moving/moving-fe) |
 
 </div>
